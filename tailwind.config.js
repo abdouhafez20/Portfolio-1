@@ -90,7 +90,9 @@ export default {
       },
       animation: {
         "shimmer": "shimmer 4s linear infinite",
-      },
+      },  backdropBlur: {
+    xl: '20px',
+      }
     },
   },
   plugins: [tailwindcssAnimate],
