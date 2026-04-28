@@ -5,7 +5,6 @@ import { PanelLeftIcon } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 
-const SIDEBAR_WIDTH = "18rem"
 
 type SidebarContextType = {
   open: boolean
